@@ -1,0 +1,11 @@
+
+body {
+  background-color: beige;
+  color: #183153;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #183153;
+  text-align: center;
+}
